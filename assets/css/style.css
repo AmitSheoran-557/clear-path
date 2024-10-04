@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.font-messiri {
+    font-family: "El Messiri", sans-serif;
+}
+
+.font-lato {
+    font-family: "Lato", sans-serif;
+}
+
+.sec-3-blue-card {
+    background-image: url("../img/png/sec-3-Pattern-img.png");
+    max-width: 1200px;
+}
+
+.sec-4-card:hover svg path {
+    fill: #1B3353;
+}
